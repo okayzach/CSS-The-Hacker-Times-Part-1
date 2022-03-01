@@ -72,3 +72,9 @@ section{
     display: inline-block;
     width: 345px;
 }
+
+nav{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
